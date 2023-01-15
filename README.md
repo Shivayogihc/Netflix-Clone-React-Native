@@ -19,10 +19,10 @@ This is a Netflix clone app built using React Native. It allows users to browse 
 * A development environment set up for React Native (iOS or Android)
 
 ## Installation
-1. Clone the repository: git clone \\ https://github.com/Shivayogihc/Netflix-Clone-App.git \\ 
-2. Navigate to the project directory: cd Netflix-Clone-App
-3. Install dependencies: npm install
-4. Start the development server: npm start
+1. Clone the repository: git clone ``` https://github.com/Shivayogihc/Netflix-Clone-App.git ```
+2. Navigate to the project directory: cd ``` Netflix-Clone-App ```
+3. Install dependencies: ``` npm install ```
+4. Start the development server: ``` npm start ```
 5. Run the app on your device or emulator: react-native run-ios or react-native run-android
 
 ## Acknowledgments
